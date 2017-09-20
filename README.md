@@ -15,8 +15,8 @@ One player divides the deck by cutting the top of in one smooth motion and place
 The second player chooses one of the two halves without touching either pile.
 This assigns each player one pile of cards. They need not contain the same number of cards.
 
-Both players place their respective pile of cards before them, at a distance of their choosing, but not between the other player and their pile.
-Both piles of cards must remain entirely on the table, no piece of any card my stick out beyond the edge of the table.
+Both players place their respective pile of cards before them, at a distance of their choosing on their own half of the field.
+Both piles of cards must remain entirely on the table, no piece of any card may stick out beyond the edge of the table.
 
 ```
 +---------+
@@ -108,7 +108,7 @@ At any time after the arrangement of their cards, a player may re-arrange their 
 
 - At any time, their may be up to five piles of cards with face-up cards.
 - A player may turn any face-down card to make this happen.
-- Two or more cards with the same value but different suit may be stacked on top of each other.
+- Two or more cards with the same value may be stacked on top of each other.
   These cards then only count as one pile of face-up cards.
 
 
